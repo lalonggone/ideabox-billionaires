@@ -1,0 +1,106 @@
+const billionaireList = {
+	"title": "Real-time Status of the World's Billionaires",
+	"subtitle": "Shows changes since 5 pm EST from the previous trading day.",
+	"count": 2542,
+	"ranking": [
+		{
+			"rank": 1,
+			"id": "bernard-arnault",
+			"name": "Bernard Arnault & family",
+			"source": "LVMH",
+			"country": "France",
+			"gender": "M",
+			"age": 75,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/5dc05518ca425400079c659f\/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+			"current_worth": 232.80000000000001136868377216160297393798828125,
+			"previous_worth": 232.80000000000001136868377216160297393798828125
+		},
+		{
+			"rank": 2,
+			"id": "elon-musk",
+			"name": "Elon Musk",
+			"source": "Tesla, SpaceX",
+			"country": "United States",
+			"gender": "M",
+			"age": 52,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/62d700cd6094d2c180f269b9\/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+			"current_worth": 195.099999999999994315658113919198513031005859375,
+			"previous_worth": 195.099999999999994315658113919198513031005859375
+		},
+		{
+			"rank": 3,
+			"id": "jeff-bezos",
+			"name": "Jeff Bezos",
+			"source": "Amazon",
+			"country": "United States",
+			"gender": "M",
+			"age": 60,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/5bb22ae84bbe6f67d2e82e05\/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
+			"current_worth": 194,
+			"previous_worth": 194
+		},
+		{
+			"rank": 4,
+			"id": "mark-zuckerberg",
+			"name": "Mark Zuckerberg",
+			"source": "Facebook",
+			"country": "United States",
+			"gender": "M",
+			"age": 39,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/5c76b7d331358e35dd2773a9\/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401",
+			"current_worth": 177.400000000000005684341886080801486968994140625,
+			"previous_worth": 177.400000000000005684341886080801486968994140625
+		},
+		{
+			"rank": 5,
+			"id": "larry-ellison",
+			"name": "Larry Ellison",
+			"source": "Oracle",
+			"country": "United States",
+			"gender": "M",
+			"age": 79,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/5e8b62cfc095010007bffea0\/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+			"current_worth": 139.5,
+			"previous_worth": 139.5
+		},
+		{
+			"rank": 6,
+			"id": "warren-buffett",
+			"name": "Warren Buffett",
+			"source": "Berkshire Hathaway",
+			"country": "United States",
+			"gender": "M",
+			"age": 93,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/5babb7f1a7ea4342a948b79a\/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+			"current_worth": 133.19999999999998863131622783839702606201171875,
+			"previous_worth": 133.19999999999998863131622783839702606201171875
+		},
+		{
+			"rank": 7,
+			"id": "bill-gates",
+			"name": "Bill Gates",
+			"source": "Microsoft",
+			"country": "United States",
+			"gender": "M",
+			"age": 68,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/62d599ede3ff49f348f9b9b4\/416x416.jpg?background=000000&cropX1=155&cropX2=976&cropY1=340&cropY2=1161",
+			"current_worth": 127.7000000000000028421709430404007434844970703125,
+			"previous_worth": 127.7000000000000028421709430404007434844970703125
+		},
+		{
+			"rank": 8,
+			"id": "steve-ballmer",
+			"name": "Steve Ballmer",
+			"source": "Microsoft",
+			"country": "United States",
+			"gender": "M",
+			"age": 68,
+			"image": "https:\/\/specials-images.forbesimg.com\/imageserve\/59d50c47a7ea436b47b36d66\/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708",
+			"current_worth": 121.099999999999994315658113919198513031005859375,
+			"previous_worth": 121.099999999999994315658113919198513031005859375
+		},
+    ]
+}
+
+export default
+	billionaireList
